@@ -1,0 +1,61 @@
+<Players>
+	<Player> 
+		<Name>L. Messi</Name>
+		<Age>31</Age>
+		<description>The top ranked dribbler in FIFA 17 with 96. The Barcelona right wing is the 2nd ranked player overall in FIFA 17.</description>
+		<moreInfo>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/ratings/2016/top50/_third-1st/2/2-Messi-lg.jpg</moreInfo>
+		<Team>Barecelona</Team>
+		<League>Liga</League>
+		<Picture>imgs/messi.jpg</Picture>
+		<rank>2</rank>
+	</Player>
+
+	<Player> 
+		<Name>C. Ronaldo</Name>
+		<Age>34</Age>
+		<description>The top ranked player in FIFA 17. Cristiano Ronaldo has 92 Pace, 92 Shooting, 91 Dribbling  and is as strong as an ox with 80 Physicality.</description>
+		<moreInfo>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/ratings/2016/top50/_third-1st/1/1-Ronaldo-lg.jpg</moreInfo>
+		<Team>Juventus</Team>
+		<League>Serie A</League>
+		<Picture>imgs/ronaldo.jpg</Picture>
+		<rank>1</rank>
+	</Player>
+
+	<Player> 
+		<Name>K. Benzema</Name>
+		<Age>31</Age>
+		<description>Still a destructive force in front of goal, has the ability to win any match. His 84 Shooting will be a nightmare for defenders to cope with.</description>
+		<moreInfo>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/ratings/2016/top50/50-41/43/43-Benzema-lg.jpg</moreInfo>
+		<Team>R.Madrid</Team>
+		<League>Liga</League>
+		<Picture>imgs/karim.jpg</Picture>
+		<rank>5</rank>
+	</Player>
+
+	<Player> 
+		<Name>P. Pogba</Name>
+		<Age>25</Age>
+		<description>A center mid who will bolster any midfield. Still a destructive force in front of goal, Paul Pogba boasts 87 Dribbling to go along with his 87 Physicality.</description>
+		<moreInfo>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/ratings/2016/top50/20through11/18/18-Pogba-lg.jpg</moreInfo>
+		<Team>Manchester United</Team>
+		<League>Premier League</League>
+		<Picture>imgs/Pogba.jpg</Picture>
+		<rank>4</rank>
+	</Player>
+
+
+	<Player> 
+		<Name>J. Neymar</Name>
+		<Age>27</Age>
+		<description>Incredibly skillful with the ability to turn a game in an instant. The Barcelona left wing has the 2nd highest Dribbling attribute in FIFA 17 with 95</description>
+		<moreInfo>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/ratings/2016/top50/_third-1st/3/3-Neymar-lg.jpg</moreInfo>
+		<Team>Paris Saint-Germain</Team>
+		<League>Ligue 1</League>
+		<Picture>imgs/neymar.jpg</Picture>
+		<rank>3</rank>
+	</Player>
+
+</Players>
+
+
+
